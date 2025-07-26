@@ -9,6 +9,6 @@ Ele é monitorado pelo ArgoCD para realizar os deploys automáticos com base nas
 ---
 
 🔗 **Repositório da aplicação FastAPI (com documentação):**  
-➡️ <a href="https://github.com/MarcelaLinhares/projeto-ci-cd_hello-app" target="_blank">projeto-ci-cd_hello-app</a>
+➡️ [projeto-ci-cd_hello-app](https://github.com/MarcelaLinhares/projeto-ci-cd_hello-app)
 
 ---
